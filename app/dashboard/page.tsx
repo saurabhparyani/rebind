@@ -87,7 +87,7 @@ export default async function DashboardPage() {
                         Your ideas start here!
                     </h2>
                     <p className="mb-8 mt-2 text-center text-sm leading-6 text-muted-foreground max-w-sm mx-auto">
-                        You don't have any notes yet. Let's get those thoughts flowing – create your first note now.
+                        You don't have any notes yet. Let's get those thoughts flowing - create your first note now.
                     </p>
 
                     {data?.Subscription?.status === "active" ? (
