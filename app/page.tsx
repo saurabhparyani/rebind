@@ -21,18 +21,18 @@ export default async function Home() {
             </span>
 
             <h1 className="mt-8 text-3xl font-extrabold tracking-tight lg:text-6xl">
-              Create Notes efficiently
+              Re<span className="text-primary">Bind</span>
+              : Your Notes, Unbound
             </h1>
             <p className="max-w-xl mx-auto mt-8 text-base lg:text-xl text-secondary-foreground">
-              Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
-              nonumy eirmod tempor invidunt ut labore et d
+              Effortlessly organize and shape your ideas with ReBind. Capture ideas, organize them effortlessly, and find clarity - all in one place.
             </p>
           </div>
 
           <div className="flex justify-center max-w-sm mx-auto mt-10">
             <RegisterLink>
               <Button size="lg" className="w-full">
-                Sign Up for free
+                Register Now!
               </Button>
             </RegisterLink>
           </div>

@@ -47,9 +47,9 @@ export default async function NewNoteRoute() {
         <Card>
             <form action={postData}>
                 <CardHeader>
-                    <CardTitle>New Note</CardTitle>
+                    <CardTitle>Add Note</CardTitle>
                     <CardDescription>
-                        Right here you can now create your new notes
+                        Create a new note. Unleash your ideas!
                     </CardDescription>
                 </CardHeader>
                 <CardContent className="flex flex-col gap-y-5">
