@@ -1,3 +1,30 @@
+# ReBind: A note-taking SaaS application built with Next.js 14, Stripe, Kinde Auth, Prisma, Supabase, and Tailwind.
+
+### Features/Stack:
+
+* 🌐 **Next.js 14** with the **App Router** for modern routing and data fetching.
+* 🔐 **Secure authentication** powered by **Kinde Auth** (supporting passwordless, **Google**, and **GitHub** login).
+* 🗃️ **Database and data modeling** with **Supabase** and **Prisma** as **ORM** for a robust and flexible backend.
+* 🎨 **Sleek UI** design using **Tailwind CSS** and **shadcn UI** with customizable color schemes inluding a **Dark/Light theme** toggle.
+* 💵 **Stripe integration** for **subscription handling**, **payment processing**, and **webhook** implementation.
+* 😶‍🌫️ **Effortless deployment to Vercel** for fast and reliable hosting.
+* 📄 The application boasts comprehensive note-taking features: **add, view, edit, and delete notes**.
+
+
+### Try it on your own
+
+* Visit **[rebind-dev.vercel.app/](https://rebind-dev.vercel.app/)** and sign up via **Google** or **GitHub**.
+* Use a **test VISA** card on the Stripe checkout page (completely free): **4000 0035 6000 0008** (Asia Specific), **4242 4242 4242 4242** (Elsewhere)
+* **Add/View/Edit/Delete** notes with complete freedom.
+* [TIP] - If you get a **404 error page** after **adding/editing** a note when you save it, just **refresh the page**!
+
+### Project showcase
+
+[![ReBind](https://img.youtube.com/vi/_mCZCkugcSM/0.jpg)](https://www.youtube.com/watch?v=_mCZCkugcSM)
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
